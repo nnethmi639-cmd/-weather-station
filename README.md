@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/038e0d27-3855-478c-ac5f-25f0f24d071e" />
+<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/f4b4d74d-f39f-4560-b720-f1bdc1f536ed" />
 # Weather Station
 
 An instrument-panel styled weather dashboard, built with plain HTML, CSS and JavaScript — no build step, no framework, no API key required.
@@ -37,3 +39,5 @@ Just open `weather-station.html` in a browser. For the installable/offline PWA f
 ## License
 
 Feel free to use, modify and share.
+<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/10ebe90c-5603-4fb9-8d0d-a678b15f1a17" />
+
