@@ -39,5 +39,5 @@ Just open `weather-station.html` in a browser. For the installable/offline PWA f
 ## License
 
 Feel free to use, modify and share.
-<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/10ebe90c-5603-4fb9-8d0d-a678b15f1a17" />
+
 
