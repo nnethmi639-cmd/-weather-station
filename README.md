@@ -1,5 +1,5 @@
 <img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/038e0d27-3855-478c-ac5f-25f0f24d071e" />
-<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/f4b4d74d-f39f-4560-b720-f1bdc1f536ed" />
+
 # Weather Station
 
 An instrument-panel styled weather dashboard, built with plain HTML, CSS and JavaScript — no build step, no framework, no API key required.
